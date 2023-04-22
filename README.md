@@ -7,7 +7,7 @@ This implementation is coded based on [Google Drive SDK Document](https://develo
 
 There are already [multiple libs for Google Drive in different programming languages](https://developers.google.com/drive/web/downloads), including Java, Javascript, .NET, Objective-C, PHP, Python, Go, Node.js...  However, C++ implementation lib is never availalbe from Google.
 
-When I worked with this [Google Apps local backup tool](http://www.cubebackup.com),   some C++ implementation code was made, acting as a lib to support the main program to access Google Drive (as well as other Google Apps services). 
+When I worked with this [Google Workspace backup tool](http://www.cubebackup.com),   some C++ implementation code was made, acting as a lib to support the main program to access Google Drive (as well as other Google Apps services). 
 
 Note: This is not a fully implementation of Google Drive SDK, some features of GDrive manipulations are missing in this implementation. I hope opensourcing this project can help to make it better and more feature-riched.
 
